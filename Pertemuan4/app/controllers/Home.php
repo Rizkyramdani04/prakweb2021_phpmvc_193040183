@@ -1,8 +1,8 @@
 <?php
 
 class Home {
-    public function index() {
-
+    public function index() 
+    {
         echo 'home/index';
     }
 }
